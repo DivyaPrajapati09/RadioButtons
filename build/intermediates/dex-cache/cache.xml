@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_203bb84d7e71f491b542177f40d64f9fe9d5b9b4\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_66b70308a2afbe9ce17d575212e80510b8e8d3f1\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a078ef5d4d6e45c7ad66906873e2bb2a802d3c53">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7e353612352c4e54bf93b727e7bb92381edc8c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="45df47634d08ea6a8ffca34e270cf527fff5c397">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_40ca6dedb3be0b87600f2a2a582690d75745e53a\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_c03c280dd21af7abff05a00ee344f58262eaf55a\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android\AndroidBasicExamples\RadioButton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_5974bbd8c18c4cb7952b8dcff5553df94c9bda6b\classes.dex" />
+    </item>
+
+</items>
